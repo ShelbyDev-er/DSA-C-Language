@@ -1,0 +1,5 @@
+1,Nguyen,Van,A,Cong ty A,091234352,a@gmail.com,12 A Street,10/9/2002,a.com,abc,0
+2,Tran,Thi,B,Cong ty B,095435234,b@gmail.com,12 A Street,10/9/2002,a.com,abc,1
+4,Nguyen,Van,C,Cong ty C,094325432,c@gmail.com,13 C Street,9/12/2001,c.com,cde,0
+5,Nguyen,Van,O,Cong ty O,09453243,o@gmail.com,12 O Street,2/3/2001,o.com,obs,0
+3,Nguyen,Thi,T,Cong ty T,094325423,t@gmail.com,43 T Street,8/9/2000,t.com,tfc,0
